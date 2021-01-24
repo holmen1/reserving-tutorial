@@ -282,4 +282,7 @@ paket-files/
 __pycache__/
 *.pyc
 
-0.demonstration.ipynb
+# R
+.RData
+.Rhistory
+
